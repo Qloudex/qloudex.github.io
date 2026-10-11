@@ -6,3 +6,9 @@ Static site for [Qloudex](https://github.com/Qloudex), served with GitHub Pages 
 - CNAME holds the custom domain. Delete it to serve from qloudex.github.io instead.
 - The custom domain is configured as qloudex.tech in index.html, CNAME, robots.txt and sitemap.xml.
 - Export og-image.svg to og-image.png (1200x630) for social previews.
+
+## Contact
+
+General: hello@qloudex.tech
+Website: https://qloudex.tech
+GitHub: https://github.com/Qloudex
