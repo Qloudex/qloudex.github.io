@@ -1,11 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
-<rect width="1200" height="630" fill="#1b1b1f"/>
+<rect width="1200" height="630" fill="#07110f"/>
+<circle cx="1080" cy="30" r="360" fill="#51c8e8" opacity=".07"/>
+<circle cx="90" cy="600" r="330" fill="#53e0b0" opacity=".07"/>
 <g transform="translate(8 58) scale(1.08)">
 <defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="140" y1="130" x2="390" y2="390"><stop offset="0" stop-color="#41D1A3"/><stop offset="1" stop-color="#00C8D9"/></linearGradient><clipPath id="o"><path clip-rule="evenodd" d="M0 0H512V512H0Z M256 149a101 101 0 1 0 0.01 0Z"/></clipPath></defs>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="256" cy="250" r="118" stroke="url(#g)" stroke-width="34"/><line x1="318" y1="312" x2="370" y2="364" stroke="url(#g)" stroke-width="34" clip-path="url(#o)"/><polyline points="209,214 249,250 209,286" stroke="#FFFFFF" stroke-width="26"/><line x1="272" y1="286" x2="306" y2="286" stroke="#41D1A3" stroke-width="26"/></g>
 </g>
-<text x="485" y="275" font-family="Inter,Arial,sans-serif" font-size="110" font-weight="700" fill="#FFFFFF">Qloudex</text>
-<text x="490" y="356" font-family="Inter,Arial,sans-serif" font-size="36" fill="#a1a1aa">Agentic AI for software, data</text>
-<text x="490" y="408" font-family="Inter,Arial,sans-serif" font-size="36" fill="#a1a1aa">and cloud automation</text>
-<text x="490" y="530" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="1" fill="#41d1a3">qloudex.tech</text>
+<text x="485" y="240" font-family="Inter,Arial,sans-serif" font-size="104" font-weight="700" fill="#f1f7f4">Qloudex</text>
+<text x="490" y="304" font-family="JetBrains Mono,monospace" font-size="20" font-weight="500" letter-spacing="2" fill="#53e0b0">AI &amp; CLOUD ENGINEERING STUDIO</text>
+<text x="490" y="378" font-family="Inter,Arial,sans-serif" font-size="34" fill="#9fb1aa">AI engineering and cloud automation,</text>
+<text x="490" y="426" font-family="Inter,Arial,sans-serif" font-size="34" fill="#9fb1aa">built for real work.</text>
+<text x="490" y="530" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="1" fill="#53e0b0">qloudex.tech</text>
 </svg>
